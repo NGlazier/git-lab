@@ -1,6 +1,7 @@
 Answer 1: git version 2.17.1
 Answer 2: user.name=Noah Glazier
 	  user.email=ng190817@ohio.edu
+
 Answer 3: It brings up the git manual with a list of commands and help
 Answer 4: On branch master
 	
